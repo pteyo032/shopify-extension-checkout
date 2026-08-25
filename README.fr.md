@@ -11,7 +11,7 @@ d'hébergement. Elle se rend dans le checkout de Shopify et écrit dans un attri
 panier via l'API Attributes.
 
 
-![Le champ de consigne de livraison dans le checkout Shopify : une zone de texte intitulée « Delivery instructions (200 characters maximum) », placée entre la case d'abonnement e-mail et la section de livraison, avec le même style que les autres champs du checkout](docs/screenshots/checkout-delivery-note.png)
+![Le checkout Shopify avec le champ de consigne de livraison entouré en rouge : une zone de texte intitulée « Delivery instructions (200 characters maximum) », placée entre la case d'abonnement e-mail et la section de livraison, avec le même style que les autres champs du checkout](docs/screenshots/checkout-delivery-note.png)
 
 ## Le problème
 
