@@ -1,0 +1,5 @@
+{
+  "name": "note-livraison",
+  "label": "Consignes de livraison ({{max}} caractères maximum)",
+  "erreurEnregistrement": "Vos consignes n'ont pas pu être enregistrées. Vous pouvez terminer votre commande, et les transmettre ensuite au marchand."
+}

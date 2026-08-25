@@ -1,0 +1,5 @@
+{
+  "name": "note-livraison",
+  "label": "Delivery instructions ({{max}} characters maximum)",
+  "erreurEnregistrement": "Your instructions could not be saved. You can complete your order, and pass them on to the merchant afterwards."
+}

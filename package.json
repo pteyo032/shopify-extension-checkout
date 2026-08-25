@@ -1,0 +1,25 @@
+{
+  "name": "extension-checkout",
+  "version": "1.0.0",
+  "license": "MIT",
+  "packageManager": "npm@11.19.0",
+  "workspaces": [
+    "extensions/*"
+  ],
+  "scripts": {
+    "shopify": "shopify",
+    "build": "shopify app build",
+    "dev": "shopify app dev",
+    "info": "shopify app info",
+    "generate": "shopify app generate",
+    "deploy": "shopify app deploy"
+  },
+  "dependencies": {
+    "@shopify/cli": "4.7.0"
+  },
+  "trustedDependencies": [
+    "@shopify/plugin-cloudflare"
+  ],
+  "author": "Pierre Gaiss",
+  "private": true
+}
