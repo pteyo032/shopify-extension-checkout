@@ -10,6 +10,9 @@ Built as an **extension-only** app: one checkout UI extension, no server, no hos
 It renders inside Shopify's checkout and writes to a cart attribute through the
 supported Attributes API.
 
+
+![The delivery instructions field rendered in Shopify checkout: a text area labelled "Delivery instructions (200 characters maximum)", sitting between the marketing opt-in checkbox and the delivery section, styled like every other checkout field](docs/screenshots/checkout-delivery-note.png)
+
 ## The problem
 
 Buyers have information the merchant needs and no place to put it. They write it in the

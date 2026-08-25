@@ -10,6 +10,9 @@ Construit en app **extension-only** : une Checkout UI extension, pas de serveur,
 d'hébergement. Elle se rend dans le checkout de Shopify et écrit dans un attribut de
 panier via l'API Attributes.
 
+
+![Le champ de consigne de livraison dans le checkout Shopify : une zone de texte intitulée « Delivery instructions (200 characters maximum) », placée entre la case d'abonnement e-mail et la section de livraison, avec le même style que les autres champs du checkout](docs/screenshots/checkout-delivery-note.png)
+
 ## Le problème
 
 Le client détient une information dont le marchand a besoin, et aucun endroit où la
